@@ -6,4 +6,3 @@ from models import Persona, Tweet
 
 admin.site.register(Persona)
 admin.site.register(Tweet)
-
